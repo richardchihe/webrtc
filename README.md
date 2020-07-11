@@ -1,1 +1,1 @@
-A WebRTC Project.
+A peer to peer video and chat web app utilizing WebRTC and socket.io
